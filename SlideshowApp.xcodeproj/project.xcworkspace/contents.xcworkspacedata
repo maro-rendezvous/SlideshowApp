@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:image1.png">
+   </FileRef>
+   <FileRef
+      location = "group:image2.png">
+   </FileRef>
+   <FileRef
+      location = "group:image3.png">
+   </FileRef>
+   <FileRef
+      location = "group:image4.png">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
